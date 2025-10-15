@@ -32,19 +32,3 @@ The database operates on a strict, automated schedule to maintain peak performan
 ***
 
 *Last Updated: July 2024*
-
-## 🤝 Contributing
-
-We welcome contributions to improve the Media Index Tracker! Whether you're fixing a bug, improving the documentation, or adding a new feature, your help is appreciated.
-
-To contribute:
-- Fork this repository.
-- Create a new branch for your feature or fix.
-- Commit your changes.
-- Submit a Pull Request (PR) detailing your changes.
-
-For major changes or new feature proposals, please open an issue first to discuss what you would like to implement.
-
-## 📜 License
-
-This project is licensed under the [Apache License 2.0](./LICENSE).
